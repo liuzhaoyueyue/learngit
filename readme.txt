@@ -3,6 +3,3 @@ Git is free software.
 I am iron man.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick AND simple.
->>>>>>> feature1
